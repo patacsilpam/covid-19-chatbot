@@ -1,2 +1,2 @@
 # covbot link
-https://github.com/patacsilpam/covid-19-chatbot.git
+https://goolkeepers.000webhostapp.com/covbot.php
