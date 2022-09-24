@@ -1,7 +1,7 @@
 <?php
 $server = "localhost";
-$username = "epiz_31209727";
+$username = "";
 $password = "";
-$dbName = "epiz_31209727_covbot";
+$dbName = "";
 $connect = new mysqli($server,$username,$password,$dbName);
 ?>
